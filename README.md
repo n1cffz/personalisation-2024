@@ -1,9 +1,7 @@
-### Understanding Spotify’s Recommendation Radio System: A content and user-based analysis.
-This project undertakes an exploratory analysis of Spotify's radio recommendation system to uncover insights into why certain songs are recommended to users.
+### Understanding Spotify’s Recommendation Radio System: A content and user-based analysis. 🎶
+Ever wondered why Spotify suggests certain songs to you? This project takes a deep dive into Spotify's recommendation system to uncover what influences these suggestions. Through an exploratory analysis, we’ll look at:
 
-The research questions include:
-1.	How does Spotify’s recommendation system use personal listening history?
-2.	What biases or limitations exist in the recommendation algorithm?
-3.	How do audio features and song popularity influence Spotify’s recommendations?
-
-The write up for this project : ProjectWriteUp.pdf
+- Personal Listening History: How does Spotify use your past listening to make recommendations?
+- Algorithm Biases: Are there any biases or limitations in the way recommendations are made?
+- Audio Features & Song Popularity: How do factors like song features and popularity impact what you hear?
+- For the full details, check out the Project Write-Up.
